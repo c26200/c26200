@@ -45,12 +45,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c26200&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c26200&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/c26200/c26200/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
