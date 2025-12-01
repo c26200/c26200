@@ -17,7 +17,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           # nombre de tu usuario de github
-          github_user_name: c26200
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
