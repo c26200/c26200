@@ -1,0 +1,100 @@
+<svg width="900" height="650" viewBox="0 0 900 650" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Carlos Gordillo — Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="650" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111820"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="900" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B222C"/>
+      <stop offset="1" stop-color="#161B22"/>
+    </linearGradient>
+    <clipPath id="clip">
+      <rect x="1" y="1" width="898" height="648" rx="14"/>
+    </clipPath>
+    <style>
+      .cursor { animation: blink 1.2s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="648" rx="14" fill="url(#bg)"/>
+
+  <g clip-path="url(#clip)">
+    <!-- Title bar -->
+    <rect x="0" y="0" width="900" height="44" fill="url(#bar)"/>
+    <line x1="1" y1="44" x2="899" y2="44" stroke="#30363D"/>
+    <line x1="1" y1="45" x2="899" y2="45" stroke="#0A0D12" opacity="0.6"/>
+
+    <!-- macOS traffic lights -->
+    <circle cx="24" cy="22" r="6.5" fill="#FF5F57"/>
+    <circle cx="48" cy="22" r="6.5" fill="#FEBC2E"/>
+    <circle cx="72" cy="22" r="6.5" fill="#28C840"/>
+
+    <text x="450" y="27" text-anchor="middle" fill="#7D8590" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="12">carlos@github: ~/profile — zsh</text>
+
+    <!-- $ whoami -->
+    <text x="32" y="86" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#3FB950">$</tspan><tspan fill="#7D8590" dx="8">whoami</tspan>
+    </text>
+
+    <text x="32" y="132" fill="#E6EDF3" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="700" letter-spacing="-0.5">Carlos Gordillo</text>
+
+    <text x="32" y="160" fill="#7D8590" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">Full Stack Developer · Mechatronics Engineer</text>
+
+    <!-- $ cat about.md -->
+    <text x="32" y="204" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#3FB950">$</tspan><tspan fill="#7D8590" dx="8">cat about.md</tspan>
+    </text>
+
+    <text x="32" y="230" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#58A6FF">›</tspan><tspan fill="#C9D1D9" dx="10">End-to-end web apps — React, Next.js, TypeScript</tspan>
+    </text>
+    <text x="32" y="256" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#58A6FF">›</tspan><tspan fill="#C9D1D9" dx="10">Automation with n8n and self-hosted Ubuntu servers</tspan>
+    </text>
+    <text x="32" y="282" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#58A6FF">›</tspan><tspan fill="#C9D1D9" dx="10">Building agreement &amp; workforce automation systems</tspan>
+    </text>
+    <text x="32" y="308" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#58A6FF">›</tspan><tspan fill="#C9D1D9" dx="10">Based in Colombia</tspan>
+    </text>
+
+    <!-- $ ls ~/selected -->
+    <text x="32" y="352" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#3FB950">$</tspan><tspan fill="#7D8590" dx="8">ls ~/selected</tspan>
+    </text>
+
+    <text x="32" y="378" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#484F58">drwx</tspan><tspan fill="#E6EDF3" dx="16" font-weight="600">tradescope-ai</tspan><tspan fill="#7D8590" dx="20">PyTorch · FastAPI</tspan>
+    </text>
+    <text x="32" y="404" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#484F58">drwx</tspan><tspan fill="#E6EDF3" dx="16" font-weight="600">convenios</tspan><tspan fill="#7D8590" dx="20">Next.js · Prisma · PostgreSQL</tspan>
+    </text>
+    <text x="32" y="430" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#484F58">drwx</tspan><tspan fill="#E6EDF3" dx="16" font-weight="600">cinetrack</tspan><tspan fill="#7D8590" dx="20">React 19 · Vite</tspan>
+    </text>
+
+    <!-- $ stack -->
+    <text x="32" y="474" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#3FB950">$</tspan><tspan fill="#7D8590" dx="8">stack</tspan>
+    </text>
+    <text x="32" y="500" fill="#C9D1D9" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">React · Next.js · TypeScript · Node.js · PostgreSQL · Prisma · Docker · Linux</text>
+
+    <!-- $ contact -->
+    <text x="32" y="544" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#3FB950">$</tspan><tspan fill="#7D8590" dx="8">contact --list</tspan>
+    </text>
+    <text x="32" y="570" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#3FB950">→</tspan><tspan fill="#58A6FF" dx="10">linkedin.com/in/cmgordillo26</tspan>
+    </text>
+    <text x="32" y="596" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">
+      <tspan fill="#3FB950">→</tspan><tspan fill="#58A6FF" dx="10">cmgm26200@gmail.com</tspan>
+    </text>
+
+    <!-- Prompt + cursor -->
+    <text x="32" y="630" fill="#3FB950" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13">$</text>
+    <rect x="52" y="619" width="9" height="13" rx="1" fill="#3FB950" class="cursor"/>
+  </g>
+
+  <rect x="1" y="1" width="898" height="648" rx="14" stroke="#30363D"/>
+</svg>
