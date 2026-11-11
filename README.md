@@ -10,8 +10,6 @@
 
 <br/>
 
-### Mechatronics
-
 <div align="center">
 
   <picture>
@@ -19,10 +17,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/c26200/c26200/main/assets/mechatronics-light.svg">
     <img src="https://raw.githubusercontent.com/c26200/c26200/main/assets/mechatronics-light.svg" width="900" alt="Mechatronics skills: PLC programming, CAD design, 3D printing, robotics and PCB design">
   </picture>
-
-  <br/>
-  <sub><a href="https://github.com/c26200/mechatronics-portfolio">Open the separate mechatronics portfolio</a></sub>
-
 </div>
 
 <br/>
